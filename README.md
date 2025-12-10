@@ -16,3 +16,16 @@ This project will evolve over the next few weeks into a real-time LoRa sensor no
 
 ## 🧰 Tech Used
 ESP32, FreeRTOS, LoRa, C, KiCad  
+
+---
+
+## 📅 Learning Roadmap
+- Week 1: FreeRTOS basics (tasks, queues)
+- Week 2: LoRa driver integration
+- Week 3: Low-power scheduling (deep sleep)
+- Week 4: Telemetry protocol + Python dashboard
+
+## 📊 Current Status
+- Repository initialized
+- FreeRTOS learning in progress
+- Task scheduling implementation planned
